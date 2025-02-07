@@ -5,8 +5,12 @@ I developed a machine learning-based email/SMS spam detection system, following 
 4) model building, 
 5) evaluation, 
 6) implementation, and 
-7) deployment via a web interface.  
-The project leveraged Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, NLTK, and Scikit-learn.  While several classification algorithms were tested, Multinomial Naive Bayes, Random Forest, and Extra Trees Classifier yielded the best performance.  These top-performing models were trained and persisted using pickle.  A real-time web interface was then created using Streamlit.  This project offers substantial potential for future enhancements and practical applications.
+7) deployment via a web interface. 
+
+#Libraries and Technologies
+The project leveraged Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, NLTK, and Scikit-learn.  While several classification algorithms were tested, Multinomial Naive Bayes, Random Forest, and Extra Trees Classifier yielded the best performance. 
+
+These top-performing models were trained and persisted using pickle.  A real-time web interface was then created using Streamlit.  This project offers substantial potential for future enhancements and practical applications.
 
 # Certificates
 
